@@ -1,0 +1,1837 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Finesse\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-20 19:33+0100\n"
+"PO-Revision-Date: 2013-01-20 19:33+0100\n"
+"Last-Translator: octavr <octavr@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:7
+msgid "404 Error Page"
+msgstr ""
+
+#: ../404.php:12
+msgid "It seems that the page you were looking for doesn't exist."
+msgstr ""
+
+#: ../404.php:13
+msgid "Perhaps one of the links below can help."
+msgstr ""
+
+#: ../archive.php:19
+#: ../author.php:19
+#: ../category.php:19
+#: ../index.php:30
+#: ../single.php:20
+#: ../tag.php:19
+msgid "Permalink"
+msgstr ""
+
+#: ../archive.php:20
+#: ../author.php:20
+#: ../category.php:20
+#: ../index.php:31
+#: ../single.php:21
+#: ../tag.php:20
+msgid "Posted"
+msgstr ""
+
+#: ../archive.php:20
+#: ../author.php:20
+#: ../category.php:20
+#: ../index.php:31
+#: ../single.php:21
+#: ../tag.php:20
+msgid "by"
+msgstr ""
+
+#: ../archive.php:21
+#: ../author.php:21
+#: ../category.php:21
+#: ../index.php:32
+#: ../single.php:22
+#: ../tag.php:21
+msgid "Tags"
+msgstr ""
+
+#: ../archive.php:22
+#: ../author.php:22
+#: ../category.php:22
+#: ../index.php:33
+#: ../single.php:23
+#: ../tag.php:22
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../functions.php:400
+msgid "The default sidebar"
+msgstr ""
+
+#: ../functions.php:410
+msgid "The sidebar for the footer"
+msgstr ""
+
+#: ../functions.php:544
+#: ../functions.php:545
+msgid "Portfolio"
+msgstr ""
+
+#: ../header.php:90
+#: ../header.php:91
+msgid "Search"
+msgstr ""
+
+#: ../index.php:55
+msgid "No Post Found"
+msgstr ""
+
+#: ../index.php:57
+msgid "No results were found for the requested archive."
+msgstr ""
+
+#: ../search.php:11
+msgid "Search Results"
+msgstr ""
+
+#: ../search.php:17
+msgid "results found for"
+msgstr ""
+
+#: ../search.php:35
+msgid "Sorry, no posts matched your criteria. Please try and search again."
+msgstr ""
+
+#: ../single-portfolio.php:32
+msgid "Overview"
+msgstr ""
+
+#: ../single-portfolio.php:37
+msgid "Customer"
+msgstr ""
+
+#: ../single-portfolio.php:42
+msgid "Year"
+msgstr ""
+
+#: ../single-portfolio.php:47
+msgid "Technology"
+msgstr ""
+
+#: ../single-portfolio.php:55
+msgid "Visit Website"
+msgstr ""
+
+#: ../single-portfolio.php:64
+msgid "Related Projects"
+msgstr ""
+
+#: ../single.php:7
+msgid "Blog"
+msgstr ""
+
+#: ../single.php:58
+msgid "Related Posts"
+msgstr ""
+
+#: ../template-contact.php:11
+msgid "Contact"
+msgstr ""
+
+#: ../template-contact.php:28
+msgid "Contact Us"
+msgstr ""
+
+#: ../template-contact.php:29
+msgid "We would be glad to have feedback from you. Drop us a line, whether it is a comment, a question, a work proposition or just a hello. You can use either the form below or the contact details on the right."
+msgstr ""
+
+#: ../template-contact.php:31
+msgid "Your message has been successfully sent. We will get back to you as soon as possible."
+msgstr ""
+
+#: ../template-contact.php:36
+msgid "Your message couldn't be sent because a server error occurred. Please try again."
+msgstr ""
+
+#: ../template-contact.php:41
+#: ../api/finesse-blog-util.php:36
+msgid "Name"
+msgstr ""
+
+#: ../template-contact.php:45
+#: ../api/finesse-blog-util.php:37
+msgid "Email"
+msgstr ""
+
+#: ../template-contact.php:49
+#: ../api/finesse-blog-util.php:38
+msgid "Website"
+msgstr ""
+
+#: ../template-contact.php:53
+msgid "Subject"
+msgstr ""
+
+#: ../template-contact.php:57
+#: ../api/finesse-blog-util.php:23
+msgid "Message"
+msgstr ""
+
+#: ../template-contact.php:62
+msgid "Send Message"
+msgstr ""
+
+#: ../template-contact.php:65
+msgid "Required fields"
+msgstr ""
+
+#: ../template-portfolio-overview.php:19
+msgid "Filter"
+msgstr ""
+
+#: ../template-portfolio-overview.php:21
+msgid "All"
+msgstr ""
+
+#: ../api/finesse-blog-util.php:20
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../api/finesse-blog-util.php:21
+msgid "We would be glad to get your feedback. Take a moment to comment and tell us what you think."
+msgstr ""
+
+#: ../api/finesse-blog-util.php:54
+msgid "Author"
+msgstr ""
+
+#: ../api/finesse-blog-util.php:57
+msgid "at"
+msgstr ""
+
+#: ../api/finesse-blog-util.php:66
+msgid "Edit"
+msgstr ""
+
+#: ../api/finesse-blog-util.php:75
+msgid "(Your comment is awaiting moderation.)"
+msgstr ""
+
+#: ../api/finesse-blog-util.php:77
+msgid "Reply"
+msgstr ""
+
+#: ../api/finesse-config.php:48
+msgid "Theme Options"
+msgstr ""
+
+#: ../api/finesse-config.php:143
+msgid "Save Changes"
+msgstr ""
+
+#: ../api/finesse-config.php:144
+msgid "Restore Defaults"
+msgstr ""
+
+#: ../api/finesse-pagination.php:13
+msgid "First"
+msgstr ""
+
+#: ../api/finesse-pagination.php:14
+msgid "Last"
+msgstr ""
+
+#: ../api/finesse-pagination.php:15
+msgid "Page"
+msgstr ""
+
+#: ../api/finesse-pagination.php:16
+msgid "of"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:12
+msgid "Meta Info"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:19
+#: ../api/admin/finesse-admin-page-config.php:59
+msgid "Description"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:25
+msgid "Keywords"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:35
+#: ../api/admin/page/Page_Customizer.php:20
+#: ../api/admin/page/Page_Customizer.php:21
+msgid "Sidebar"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:46
+msgid "Project Details"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:53
+msgid "Short Description"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:77
+msgid "Technologies Used"
+msgstr ""
+
+#: ../api/admin/finesse-admin-page-config.php:83
+msgid "Project URL"
+msgstr ""
+
+#: ../api/admin/plugin/Font_Manager_Plugin.php:23
+msgid "Font URL"
+msgstr ""
+
+#: ../api/admin/plugin/Font_Manager_Plugin.php:33
+msgid "Add Font"
+msgstr ""
+
+#: ../api/admin/plugin/Font_Manager_Plugin.php:104
+#: ../api/admin/plugin/Font_Manager_Plugin.php:158
+msgid "Font Manager"
+msgstr ""
+
+#: ../api/admin/plugin/Import_Manager_Plugin.php:19
+#: ../api/admin/plugin/Import_Manager_Plugin.php:35
+#: ../api/admin/plugin/Import_Manager_Plugin.php:62
+msgid "Import Demo"
+msgstr ""
+
+#: ../api/admin/plugin/Import_Manager_Plugin.php:45
+msgid "Site Address (URL)"
+msgstr ""
+
+#: ../api/admin/plugin/Import_Manager_Plugin.php:49
+msgid "E-mail Address"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:41
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:141
+msgid "Newsletter Manager"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:44
+msgid "The newsletter has been sent"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:48
+msgid "Failing to send the newsletter to the following addresses"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:62
+msgid "Select the email addresses to which you wish to send letter"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:67
+msgid "Send Newsletter"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:77
+msgid "Newsletter Subject"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:82
+msgid "Newsletter Template"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:103
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:113
+msgid "ID"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:104
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:114
+msgid "UUID"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:106
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:116
+msgid "Subscription Date"
+msgstr ""
+
+#: ../api/admin/plugin/Newsletter_Manager_Plugin.php:127
+msgid "Delete"
+msgstr ""
+
+#: ../api/admin/plugin/Sidebar_Manager_Plugin.php:37
+msgid "Sidebar Manager"
+msgstr ""
+
+#: ../api/admin/plugin/Sidebar_Manager_Plugin.php:62
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:111
+msgid "Translation Manager"
+msgstr ""
+
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:266
+msgid "Key"
+msgstr ""
+
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:279
+msgid "Add Message"
+msgstr ""
+
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:414
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:446
+msgid "Language"
+msgstr ""
+
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:418
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:450
+msgid "Locale"
+msgstr ""
+
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:425
+msgid "Add Language"
+msgstr ""
+
+#: ../api/admin/plugin/Translation_Manager_Plugin.php:457
+msgid "Update Language"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:21
+msgid "Edit Contact"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:55
+msgid "Localization Type"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:57
+msgid "By Address"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:58
+msgid "By Coordinates"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:63
+msgid "Address"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:65
+msgid "Change Address"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:68
+msgid "Latitude"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:72
+msgid "Longitude"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:77
+msgid "Map zoom"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:81
+msgid "Map height (px)"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:86
+#: ../api/media/Page_Media_Manager.php:190
+#: ../api/media/Page_Media_Manager.php:377
+#: ../api/media/Page_Media_Manager.php:436
+#: ../api/media/Page_Media_Manager.php:476
+#: ../api/media/Page_Media_Manager.php:501
+#: ../api/media/Page_Media_Manager.php:529
+msgid "Save"
+msgstr ""
+
+#: ../api/contact/Contact_Map_Manager.php:87
+#: ../api/media/Page_Media_Manager.php:191
+#: ../api/media/Page_Media_Manager.php:378
+#: ../api/media/Page_Media_Manager.php:437
+#: ../api/media/Page_Media_Manager.php:477
+#: ../api/media/Page_Media_Manager.php:502
+#: ../api/media/Page_Media_Manager.php:530
+msgid "Cancel"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:29
+#: ../api/media/Page_Media_Manager.php:30
+msgid "Edit Slider"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:31
+#: ../api/media/Page_Media_Manager.php:32
+msgid "Edit Video"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:33
+#: ../api/media/Page_Media_Manager.php:34
+msgid "Edit Audio"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:35
+#: ../api/media/Page_Media_Manager.php:36
+msgid "Edit Link"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:71
+msgid "Embedded Video"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:74
+msgid "Self-Hosted Video"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:121
+msgid "Search image"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:152
+msgid "Designer"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:155
+msgid "Drag your images here"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:164
+msgid "No Image Available"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:175
+msgid "Add Caption"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:176
+msgid "Delete Slide"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:182
+msgid "Settings"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:239
+#: ../api/media/Page_Media_Manager.php:319
+msgid "Animation"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:241
+#: ../api/media/Page_Media_Manager.php:322
+msgid "Fade"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:242
+msgid "Slide"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:246
+#: ../api/media/Page_Media_Manager.php:327
+msgid "Animation speed"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:250
+msgid "Easing"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:252
+msgid "Swing"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:253
+msgid "Linear"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:258
+msgid "Animation loop"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:262
+msgid "Animate slider automatically"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:265
+#: ../api/media/Page_Media_Manager.php:343
+msgid "Slide show speed"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:270
+msgid "Randomize slide order"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:274
+msgid "Pause the slideshow when hovering over slider"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:316
+msgid "Sliding Enabled"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:321
+msgid "Horizontal Scrolling"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:323
+msgid "Scroll Right"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:332
+msgid "Circular slider"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:336
+msgid "Pause when hovering over pager link"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:340
+msgid "Slide show"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:348
+msgid "Pause on hover (active only when the slide-show is on)"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:369
+msgid "Video ID"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:373
+msgid "Embed Code"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:381
+#: ../api/media/Page_Media_Manager.php:440
+msgid "Remove Video"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:412
+msgid "Poster URL"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:416
+msgid "M4V URL"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:420
+msgid "WEBM URL"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:424
+#: ../api/media/Page_Media_Manager.php:472
+msgid "OGG URL"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:428
+msgid "Subtitle"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:432
+msgid "Chapter"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:464
+msgid "MP3 URL"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:468
+msgid "WAV URL"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:478
+msgid "Remove Audio"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:498
+msgid "URL"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:517
+msgid "Image Link"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:521
+msgid "Caption Title"
+msgstr ""
+
+#: ../api/media/Page_Media_Manager.php:525
+msgid "Caption Content"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:76
+#: ../api/shortcode/Clients_Shortcode.php:57
+#: ../api/shortcode/Dropcap_Shortcode.php:44
+#: ../api/shortcode/Form_Shortcode.php:144
+#: ../api/shortcode/Grid_Columns_Shortcode.php:94
+#: ../api/shortcode/Highlight_Shortcode.php:48
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:100
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:122
+#: ../api/shortcode/Icon_Box_Shortcode.php:68
+#: ../api/shortcode/Info_Box_Shortcode.php:59
+#: ../api/shortcode/List_Shortcode.php:97
+msgid "Content"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:80
+msgid "Width"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:85
+msgid "This is a thumbnail audio"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:88
+msgid "Insert Audio"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:89
+#: ../api/shortcode/Audio_Shortcode.php:110
+msgid "Add Audio Source"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:94
+msgid "New Audio Source"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:98
+msgid "Audio Format"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:106
+msgid "Source (URL)"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:122
+#: ../api/shortcode/Embedded_Video_Shortcode.php:38
+#: ../api/shortcode/Image_Gallery_Shortcode.php:201
+#: ../api/shortcode/Image_Shortcode.php:182
+msgid "Multimedia"
+msgstr ""
+
+#: ../api/shortcode/Audio_Shortcode.php:127
+msgid "Audio"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:31
+msgid "Read More"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:76
+#: ../api/shortcode/Button_Shortcode.php:61
+#: ../api/shortcode/Dropcap_Shortcode.php:37
+#: ../api/shortcode/Form_Shortcode.php:174
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:126
+#: ../api/shortcode/Icon_Box_Shortcode.php:72
+msgid "Type"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:78
+msgid "Speech Bubble"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:79
+#: ../api/shortcode/Dropcap_Shortcode.php:39
+msgid "Simple"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:87
+msgid "Quote Content"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:95
+msgid "Profession"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:99
+msgid "Company"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:103
+msgid "Paragraph Separator"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:107
+msgid "Insert Blockquote"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:116
+#: ../api/shortcode/Dropcap_Shortcode.php:65
+#: ../api/shortcode/Highlight_Shortcode.php:69
+msgid "Typography"
+msgstr ""
+
+#: ../api/shortcode/Blockquote_Shortcode.php:121
+msgid "Blockquote"
+msgstr ""
+
+#: ../api/shortcode/Button_Shortcode.php:48
+msgid "Text"
+msgstr ""
+
+#: ../api/shortcode/Button_Shortcode.php:52
+msgid "Bg Color"
+msgstr ""
+
+#: ../api/shortcode/Button_Shortcode.php:63
+msgid "Normal Button"
+msgstr ""
+
+#: ../api/shortcode/Button_Shortcode.php:64
+msgid "Large Button"
+msgstr ""
+
+#: ../api/shortcode/Button_Shortcode.php:68
+msgid "Insert Button"
+msgstr ""
+
+#: ../api/shortcode/Button_Shortcode.php:77
+#: ../api/shortcode/Icon_Box_Shortcode.php:90
+#: ../api/shortcode/Info_Box_Shortcode.php:90
+#: ../api/shortcode/List_Shortcode.php:156
+msgid "Elements"
+msgstr ""
+
+#: ../api/shortcode/Button_Shortcode.php:82
+msgid "Button"
+msgstr ""
+
+#: ../api/shortcode/Clients_Shortcode.php:61
+msgid "Insert Clients"
+msgstr ""
+
+#: ../api/shortcode/Clients_Shortcode.php:62
+msgid "Add Team Client"
+msgstr ""
+
+#: ../api/shortcode/Clients_Shortcode.php:67
+msgid "New Client"
+msgstr ""
+
+#: ../api/shortcode/Clients_Shortcode.php:71
+msgid "Logo"
+msgstr ""
+
+#: ../api/shortcode/Clients_Shortcode.php:83
+msgid "Add Client"
+msgstr ""
+
+#: ../api/shortcode/Clients_Shortcode.php:94
+#: ../api/shortcode/Form_Shortcode.php:199
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:77
+msgid "Others"
+msgstr ""
+
+#: ../api/shortcode/Clients_Shortcode.php:99
+msgid "Clients"
+msgstr ""
+
+#: ../api/shortcode/Dropcap_Shortcode.php:40
+msgid "With Background"
+msgstr ""
+
+#: ../api/shortcode/Dropcap_Shortcode.php:48
+#: ../api/shortcode/Highlight_Shortcode.php:52
+msgid "Wrapper"
+msgstr ""
+
+#: ../api/shortcode/Dropcap_Shortcode.php:50
+#: ../api/shortcode/Highlight_Shortcode.php:54
+#: ../api/shortcode/Image_Gallery_Shortcode.php:128
+#: ../api/shortcode/Image_Shortcode.php:159
+msgid "None"
+msgstr ""
+
+#: ../api/shortcode/Dropcap_Shortcode.php:51
+#: ../api/shortcode/Highlight_Shortcode.php:55
+msgid "Paragraph"
+msgstr ""
+
+#: ../api/shortcode/Dropcap_Shortcode.php:52
+#: ../api/shortcode/Highlight_Shortcode.php:56
+msgid "Div"
+msgstr ""
+
+#: ../api/shortcode/Dropcap_Shortcode.php:56
+msgid "Insert Dropcap"
+msgstr ""
+
+#: ../api/shortcode/Dropcap_Shortcode.php:70
+msgid "Dropcap"
+msgstr ""
+
+#: ../api/shortcode/Embedded_Video_Shortcode.php:24
+msgid "Embedded Code"
+msgstr ""
+
+#: ../api/shortcode/Embedded_Video_Shortcode.php:28
+msgid "Insert Embedded Video"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:53
+msgid "The form has been successfully submitted"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:54
+msgid "The form couldn't be submitted because a server error occurred. Please try again later."
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:132
+msgid "Action"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:136
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:59
+msgid "Success Message"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:140
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:63
+msgid "Error Message"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:148
+msgid "Insert Form"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:149
+#: ../api/shortcode/Form_Shortcode.php:187
+msgid "Add Input Field"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:154
+msgid "New Input Field"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:162
+msgid "Label"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:170
+msgid "Default Value"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:176
+msgid "Text Field"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:177
+msgid "Text Area"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:178
+msgid "Hidden Field"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:179
+msgid "Submit Button"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:184
+msgid "Is required"
+msgstr ""
+
+#: ../api/shortcode/Form_Shortcode.php:204
+msgid "Form"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:78
+msgid "Layout"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:80
+msgid "One Half"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:81
+msgid "One Third"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:82
+msgid "One Fourth"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:83
+msgid "One Third - Two Thirds"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:84
+msgid "Two Thirds - One Third"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:85
+msgid "One Fourth - Three Fourths"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:86
+msgid "Three Fourths - One Fourth"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:90
+msgid "Column Separator"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:98
+msgid "Insert Grid Columns"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:99
+#: ../api/shortcode/Grid_Columns_Shortcode.php:112
+msgid "Add Column"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:104
+msgid "New Grid Column"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:108
+msgid "Column Content"
+msgstr ""
+
+#: ../api/shortcode/Grid_Columns_Shortcode.php:123
+#: ../api/shortcode/Grid_Columns_Shortcode.php:128
+msgid "Grid Columns"
+msgstr ""
+
+#: ../api/shortcode/Highlight_Shortcode.php:40
+msgid "Color"
+msgstr ""
+
+#: ../api/shortcode/Highlight_Shortcode.php:60
+msgid "Insert Highlight Text"
+msgstr ""
+
+#: ../api/shortcode/Highlight_Shortcode.php:74
+msgid "Highlight"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:85
+msgid "Generation Mode"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:87
+msgid "Add one by one manually"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:88
+msgid "Automatically extracts from page"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:92
+msgid "Select Page"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:104
+msgid "Insert Icon-Box Carousel"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:105
+msgid "Add Carousel Item"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:110
+msgid "New Carousel Item"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:114
+#: ../api/shortcode/Icon_Box_Shortcode.php:60
+#: ../api/shortcode/Image_Gallery_Shortcode.php:178
+#: ../api/shortcode/Image_Shortcode.php:149
+#: ../api/shortcode/Info_Box_Shortcode.php:55
+msgid "Title"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:134
+msgid "Insert Carousel Item"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:145
+msgid "Dynamic Elements"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Carousel_Shortcode.php:150
+msgid "Icon-Box Carousel"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Shortcode.php:80
+msgid "Insert Icon Box"
+msgstr ""
+
+#: ../api/shortcode/Icon_Box_Shortcode.php:95
+msgid "Icon Box"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:103
+msgid "Gallery Name"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:107
+#: ../api/shortcode/Image_Shortcode.php:129
+msgid "Image Size"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:109
+#: ../api/shortcode/Image_Shortcode.php:131
+msgid "Original Size"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:110
+#: ../api/shortcode/Image_Shortcode.php:132
+msgid "Thumbnail Size"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:115
+#: ../api/shortcode/Image_Shortcode.php:137
+msgid "Use Lightbox"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:119
+msgid "Add slide capabilities"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:122
+#: ../api/shortcode/Image_Shortcode.php:153
+msgid "Caption"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:126
+#: ../api/shortcode/Image_Shortcode.php:157
+msgid "Align"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:129
+#: ../api/shortcode/Image_Shortcode.php:160
+msgid "Left"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:130
+#: ../api/shortcode/Image_Shortcode.php:161
+msgid "Right"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:137
+msgid "Insert Image Gallery"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:138
+#: ../api/shortcode/Image_Gallery_Shortcode.php:143
+msgid "Add New Image"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:151
+#: ../api/shortcode/Image_Shortcode.php:110
+msgid "Uploaded Image"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:155
+#: ../api/shortcode/Image_Shortcode.php:114
+msgid "New Image"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:159
+#: ../api/shortcode/Image_Shortcode.php:118
+msgid "Image Name"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:161
+#: ../api/shortcode/Image_Shortcode.php:120
+msgid "Select Image ..."
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:170
+#: ../api/shortcode/Image_Shortcode.php:140
+msgid "Image Src"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:174
+#: ../api/shortcode/Image_Shortcode.php:144
+msgid "Thumbnail Src"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:182
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: ../api/shortcode/Image_Gallery_Shortcode.php:206
+msgid "Image Gallery / Entry Slider"
+msgstr ""
+
+#: ../api/shortcode/Image_Shortcode.php:165
+msgid "Insert Image"
+msgstr ""
+
+#: ../api/shortcode/Image_Shortcode.php:187
+msgid "Image"
+msgstr ""
+
+#: ../api/shortcode/Info_Box_Shortcode.php:63
+msgid "Button URL"
+msgstr ""
+
+#: ../api/shortcode/Info_Box_Shortcode.php:67
+msgid "Button Text"
+msgstr ""
+
+#: ../api/shortcode/Info_Box_Shortcode.php:71
+msgid "Button Color"
+msgstr ""
+
+#: ../api/shortcode/Info_Box_Shortcode.php:80
+msgid "Insert Info Box"
+msgstr ""
+
+#: ../api/shortcode/Info_Box_Shortcode.php:95
+msgid "Info Box"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:102
+msgid "Indent the list"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:107
+msgid "Ordered List"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:111
+msgid "Unordered List"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:115
+msgid "Icon"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:117
+msgid "Decimal"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:118
+msgid "Upper Latin"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:119
+msgid "Lower Latin"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:120
+msgid "Upper Roman"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:123
+msgid "Circle"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:124
+msgid "Arrow"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:125
+msgid "Square"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:126
+msgid "Check"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:130
+msgid "Insert List"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:131
+#: ../api/shortcode/List_Shortcode.php:144
+msgid "Add Item"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:136
+msgid "New List Item"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:140
+msgid "List Item Content"
+msgstr ""
+
+#: ../api/shortcode/List_Shortcode.php:161
+msgid "List"
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:12
+msgid "You have successfully subscribed to our newsletter."
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:13
+msgid "Your email address couldn't be subscribed because a server error occurred. Please try again later."
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:26
+msgid "Subscribe"
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:27
+msgid "Enter your email address here"
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:29
+msgid "Check your spam folder if the mail does not arrive"
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:55
+msgid "Intro"
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:67
+msgid "Insert Notification Box"
+msgstr ""
+
+#: ../api/shortcode/Newsletter_Subscription_Shortcode.php:82
+msgid "Newsletter Subscription"
+msgstr ""
+
+#: ../api/shortcode/Notification_Box_Shortcode.php:63
+msgid "Info"
+msgstr ""
+
+#: ../api/shortcode/Notification_Box_Shortcode.php:64
+msgid "Success"
+msgstr ""
+
+#: ../api/shortcode/Notification_Box_Shortcode.php:65
+msgid "Warning"
+msgstr ""
+
+#: ../api/shortcode/Notification_Box_Shortcode.php:66
+msgid "Error"
+msgstr ""
+
+#: ../api/shortcode/Notification_Box_Shortcode.php:71
+msgid "Display the close button"
+msgstr ""
+
+#: ../api/shortcode/Notification_Box_Shortcode.php:75
+msgid "Display after the page is loaded"
+msgstr ""
+
+#: ../api/shortcode/Notification_Box_Shortcode.php:93
+msgid "Notification Box"
+msgstr ""
+
+#: ../api/shortcode/Posts_Carousel_Shortcode.php:185
+msgid "Post"
+msgstr ""
+
+#: ../api/shortcode/Posts_Carousel_Shortcode.php:191
+msgid "Display only the posts related with the current one"
+msgstr ""
+
+#: ../api/shortcode/Posts_Carousel_Shortcode.php:194
+msgid "Scroll Count"
+msgstr ""
+
+#: ../api/shortcode/Posts_Carousel_Shortcode.php:198
+msgid "Items Count"
+msgstr ""
+
+#: ../api/shortcode/Posts_Carousel_Shortcode.php:202
+msgid "Insert Post Carousel"
+msgstr ""
+
+#: ../api/shortcode/Posts_Carousel_Shortcode.php:217
+msgid "Post Carousel"
+msgstr ""
+
+#: ../api/shortcode/Preformatted_Shortcode.php:50
+msgid "Tag Type"
+msgstr ""
+
+#: ../api/shortcode/Preformatted_Shortcode.php:52
+#: ../api/shortcode/Preformatted_Shortcode.php:53
+#: ../api/shortcode/Preformatted_Shortcode.php:54
+msgid "Use"
+msgstr ""
+
+#: ../api/shortcode/Preformatted_Shortcode.php:62
+msgid "Content Wrapper"
+msgstr ""
+
+#: ../api/shortcode/Preformatted_Shortcode.php:70
+msgid "Insert Preformatted Text"
+msgstr ""
+
+#: ../api/shortcode/Preformatted_Shortcode.php:84
+msgid "Preformatted Text"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:85
+#: ../api/shortcode/Pricing_Table_Shortcode.php:128
+#: ../api/shortcode/Table_Shortcode.php:122
+msgid "No. of Columns"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:87
+msgid "Two"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:88
+msgid "Three"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:89
+msgid "Four"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:93
+#: ../api/shortcode/Pricing_Table_Shortcode.php:132
+#: ../api/shortcode/Table_Shortcode.php:126
+msgid "No. of Rows"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:97
+#: ../api/shortcode/Pricing_Table_Shortcode.php:136
+msgid "Highlighted Column"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:101
+msgid "Rows Separator"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:105
+msgid "Insert Pricing Boxes"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:115
+#: ../api/shortcode/Pricing_Table_Shortcode.php:149
+msgid "Pricing Tables"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Boxes_Shortcodes.php:120
+msgid "Pricing Boxes"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Table_Shortcode.php:140
+msgid "Insert Pricing Table"
+msgstr ""
+
+#: ../api/shortcode/Pricing_Table_Shortcode.php:154
+msgid "Pricing Table"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:75
+msgid "No video playback capabilities"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:114
+msgid "Poster Source"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:122
+msgid "Height"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:127
+msgid "This is a thumbnail video"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:130
+msgid "Insert Self-Hosted Video"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:131
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:153
+msgid "Add Video Source"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:132
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:182
+msgid "Add Video Track"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:137
+msgid "New Video Source"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:141
+msgid "Video Format"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:160
+msgid "New Video Track"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:164
+msgid "Track Type"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:166
+msgid "Subtitles"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:167
+msgid "Chapters"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:168
+msgid "Captions"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:169
+msgid "Descriptions"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:170
+msgid "Metadata"
+msgstr ""
+
+#: ../api/shortcode/Self_Hosted_Video_Shortcode.php:178
+msgid "The Language of the Timed Track Data"
+msgstr ""
+
+#: ../api/shortcode/Shortcode_Manager.php:18
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:26
+msgid "Pages"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:33
+msgid "Archives by Month"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:48
+#, php-format
+msgid "Latest %d Posts"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:60
+msgid "Archives by Category"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:80
+msgid "Archives by Tag"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:101
+msgid "Archives by Author"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:146
+msgid "Complex (Pages, Blog Archives, Latest Posts)"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:147
+msgid "Simple (Pages)"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:151
+msgid "Insert Site-Map"
+msgstr ""
+
+#: ../api/shortcode/Site_Map_Shortcode.php:166
+msgid "Site Map"
+msgstr ""
+
+#: ../api/shortcode/Table_Shortcode.php:114
+msgid "Footer Text"
+msgstr ""
+
+#: ../api/shortcode/Table_Shortcode.php:130
+msgid "Insert Table"
+msgstr ""
+
+#: ../api/shortcode/Table_Shortcode.php:145
+msgid "Table"
+msgstr ""
+
+#: ../api/shortcode/Tabs_Shortcode.php:66
+msgid "Insert Tabs"
+msgstr ""
+
+#: ../api/shortcode/Tabs_Shortcode.php:67
+#: ../api/shortcode/Tabs_Shortcode.php:84
+msgid "Add Tab"
+msgstr ""
+
+#: ../api/shortcode/Tabs_Shortcode.php:72
+msgid "New Tab"
+msgstr ""
+
+#: ../api/shortcode/Tabs_Shortcode.php:76
+msgid "Tab Title"
+msgstr ""
+
+#: ../api/shortcode/Tabs_Shortcode.php:80
+msgid "Tab Content"
+msgstr ""
+
+#: ../api/shortcode/Tabs_Shortcode.php:100
+msgid "Tabs"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:77
+msgid "Insert Team Members"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:78
+#: ../api/shortcode/Team_Members_Shortcode.php:151
+msgid "Add Team Member"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:83
+msgid "New Team Member"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:100
+#: ../api/shortcode/Team_Members_Shortcode.php:111
+msgid "Photo"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:102
+msgid "No Photo"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:119
+msgid "Job Title"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:123
+msgid "Small Description"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:127
+msgid "Twitter URL"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:131
+msgid "Facebook URL"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:135
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:139
+msgid "Google + URL"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:143
+msgid "Skype"
+msgstr ""
+
+#: ../api/shortcode/Team_Members_Shortcode.php:174
+msgid "Team Members"
+msgstr ""
+
+#: ../api/shortcode/Testimonials_Carousel_Shortcode.php:46
+msgid "Select the page which contains the testimonials"
+msgstr ""
+
+#: ../api/shortcode/Testimonials_Carousel_Shortcode.php:48
+msgid "Post ID or Title"
+msgstr ""
+
+#: ../api/shortcode/Testimonials_Carousel_Shortcode.php:56
+msgid "Insert Testimonials Carousel"
+msgstr ""
+
+#: ../api/shortcode/Testimonials_Carousel_Shortcode.php:71
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:84
+msgid "Default"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:85
+msgid "Accordion"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:89
+msgid "Insert Toggles"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:90
+#: ../api/shortcode/Toggles_Shortcode.php:114
+msgid "Add Toggle"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:95
+msgid "New Toggle"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:103
+msgid "State"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:105
+msgid "Collapsed (closed)"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:106
+msgid "Expanded (open)"
+msgstr ""
+
+#: ../api/shortcode/Toggles_Shortcode.php:130
+msgid "Toggles"
+msgstr ""
+
+#: ../api/util/Post_Util.php:41
+#, php-format
+msgid "Posts Filtered by Tag: %s"
+msgstr ""
+
+#: ../api/util/Post_Util.php:43
+#, php-format
+msgid "Posts Filtered by Category: %s"
+msgstr ""
+
+#: ../api/util/Post_Util.php:45
+#, php-format
+msgid "Posts Filtered by Author: %s"
+msgstr ""
+
+#: ../api/util/Post_Util.php:48
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../api/util/Post_Util.php:50
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../api/util/Post_Util.php:52
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../api/widget/Finesse_Archives_Widget.php:14
+msgid "Archives"
+msgstr ""
+
+#: ../api/widget/Finesse_Archives_Widget.php:23
+msgid "Select Month"
+msgstr ""
+
+#: ../api/widget/Finesse_Categories_Widget.php:13
+msgid "Categories"
+msgstr ""
+
+#: ../api/widget/Finesse_Categories_Widget.php:26
+msgid "Select Category"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:7
+msgid "A simple widget which allows you to edit your contact details."
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:8
+msgid "Contact Info"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:26
+msgid "Phone"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:29
+msgid "Business Hours"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:35
+msgid "Follow Us"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:94
+msgid "Phone Number"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:95
+msgid "Email Address"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:96
+msgid "Timetable"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:97
+msgid "Show Social Links"
+msgstr ""
+
+#: ../api/widget/Finesse_Contact_Details_Widget.php:97
+msgid "Configure"
+msgstr ""
+
+#: ../api/widget/Finesse_Flickr_Widget.php:7
+msgid "Displays the latest pictures from a Flickr account."
+msgstr ""
+
+#: ../api/widget/Finesse_Flickr_Widget.php:8
+msgid "Flickr Photostream"
+msgstr ""
+
+#: ../api/widget/Finesse_Flickr_Widget.php:49
+msgid "The number of pictures"
+msgstr ""
+
+#: ../api/widget/Finesse_Latest_Tweets_Widget.php:8
+msgid "A simple widget which displays your latest tweets."
+msgstr ""
+
+#: ../api/widget/Finesse_Latest_Tweets_Widget.php:9
+msgid "Display Latest Tweets"
+msgstr ""
+
+#: ../api/widget/Finesse_Latest_Tweets_Widget.php:45
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../api/widget/Finesse_Latest_Tweets_Widget.php:49
+msgid "Username"
+msgstr ""
+
+#: ../api/widget/Finesse_Latest_Tweets_Widget.php:50
+msgid "Change"
+msgstr ""
+
+#: ../api/widget/Finesse_Latest_Tweets_Widget.php:54
+msgid "Number of tweets(max 20)"
+msgstr ""
+
+#: ../api/widget/Finesse_Most_Used_Tags_Widget.php:7
+msgid "Your most used tags"
+msgstr ""
+
+#: ../api/widget/Finesse_Most_Used_Tags_Widget.php:8
+msgid "Most Used Tags"
+msgstr ""
+
+#: ../api/widget/Finesse_Most_Used_Tags_Widget.php:54
+msgid "Number of Tags"
+msgstr ""
+
+#: ../api/widget/Finesse_Recent_Posts_Widget.php:29
+msgid "Recent Posts"
+msgstr ""
+
