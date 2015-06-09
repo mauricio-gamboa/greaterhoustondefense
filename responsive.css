@@ -77,6 +77,42 @@
 /* All Mobile Sizes (devices and browser) */
 @media only screen and (max-width: 767px) {
 
+    #content .wp-image-659 {
+        width: 100%;
+        height: auto;
+    }
+
+    #header-top .header-section {
+        text-align: center;
+        float: none !important;
+    }
+
+    #header .contact-info {
+        float: none;
+    }
+
+    #header .contact-info .my-contact {
+        float: none;
+        margin: 0 !important;
+    }
+
+    #header .contact-info .my-contact.first {
+        margin-bottom: 15px !important;
+    }
+
+    #header .contact-info p {
+        text-align: center;
+    }
+
+    #header .contact-info .email {
+        background: none;
+    }
+
+    #header .contact-info .appointment a img {
+        margin: auto;
+        width: auto;
+    }
+
     /* Tiny Nav */
 
     .js .tinynav {
@@ -151,7 +187,7 @@
         margin-top: 0;
     }
 
-    #header .contact-info {
+/*    #header .contact-info {
         float: left;
         margin-top: 0;
     }
@@ -164,7 +200,7 @@
 
     #header .contact-info p:first-child {
         margin-top: 0;
-    }
+    }*/
 
     /* Footer */
 
