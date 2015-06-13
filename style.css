@@ -1,5 +1,5 @@
 /*
-Theme Name: Finesse
+Theme Name: Finesse Responsive
 Theme URI: http://ixtendo.com/themes/finesse-wp/
 Author: Ixtendo
 Author URI: http://ixtendo.com/
@@ -1311,6 +1311,10 @@ ol.comment-list .comment-reply-link {
 
 #sidebar .widget {
 	margin-bottom: 30px;
+}
+
+#sidebar .widget > img {
+	width: 100%;
 }
 
 /* Latest Posts */
