@@ -1,5 +1,5 @@
 /*
-Theme Name: Finesse
+Theme Name: Finesse Responsive
 Theme URI: http://ixtendo.com/themes/finesse-wp/
 Author: Ixtendo
 Author URI: http://ixtendo.com/
@@ -78,8 +78,6 @@ body {
 	font-size: 12px;
 	line-height: 1.5em; /* 18px */
 	color: #383838;
-	background-color: #DFDAB5;
-    background-image: url("/wp-content/themes/finesse/images/endless-banner.png");
     background-position: 0 0;
     background-repeat: repeat-x;
     height: 100%;
@@ -133,6 +131,11 @@ ul {
 
 #main {
     margin-bottom: 0;
+}
+
+#content .wp-image-503 {
+	height: auto;
+    width: 100%;
 }
 
 /* ---------------------------------------------------------------------- */
@@ -276,19 +279,20 @@ mark {
 	margin-bottom: 15px;
 }
 
-#header-top .one-half.column-last {
+#header-top .header-section.first {
+	float: left;
+}
+
+#header-top .header-section.last {
 	float: right;
-	margin-top: -10px;
 }
 
 /* Logo & Tagline */
 
 #logo {
 	font: 2.666em/1em 'Metrophobic', sans-serif; /* 32px */
-	float: left;
 	text-transform: lowercase;
-	margin-right: 15px;
-	margin-bottom: 0;
+	margin: 0;
 }
 
 #logo a {
@@ -314,12 +318,19 @@ mark {
 	margin-top: 0px;
 }
 
+#header .contact-info .my-contact {
+	float: left;
+}
+
+#header .contact-info .my-contact.first {
+	margin-right: 20px;
+}
+
 #header .contact-info p {
-	float: right;
 	background-repeat: no-repeat;
 	background-position: left center;
-	margin-left: 20px;
-	margin-bottom: 0;
+	margin: 0;
+	padding: 0;
 }
 
 #header .contact-info .email {
@@ -331,15 +342,17 @@ mark {
 }
 
 #header .contact-info .appointment {
-	float: left;
-	padding-left: 31px;
+	padding: 0;
 	margin-top: 11px;
 	font-size: 16px;
 	font-weight: bolder;
 }
 
+#header .contact-info .appointment a img {
+	width: 100%;
+}
+
 #header .contact-info .phone {
-	padding-left: 22px;
 	font-size: 16px;
 	font-weight: bolder;
 }
@@ -1298,6 +1311,10 @@ ol.comment-list .comment-reply-link {
 
 #sidebar .widget {
 	margin-bottom: 30px;
+}
+
+#sidebar .widget > img {
+	width: 100%;
 }
 
 /* Latest Posts */

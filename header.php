@@ -46,33 +46,32 @@
         <!-- begin header top -->
         <section id="header-top" class="clearfix">
             <!-- begin header left -->
-            <div class="one-half">
+            <div class="header-section first">
                 <h1 id="logo"><a href="<?php echo get_home_url(); ?>"><img src="<?php echo get_header_logo(); ?>" alt="Houston Sexual Assault Lawyer |  Sex Crime Defense | Scheiner Law Group P.C." /></a></h1>
                 <p id="tagline"><?php echo get_tagline(); ?></p>
             </div>
             <!-- end header left -->
 
             <!-- begin header right -->
-            <div class="one-half column-last">
-                <!-- begin language switcher -->
-                <?php print_language_switcher();?>
-                <!-- end language switcher -->
-
+            <div class="header-section last">
                 <?php if(is_contact_details_displayed_in_header_enabled()) : ?>
                 <!-- begin contact info -->
-                <div class="contact-info">
-                    <?php $contact_phone = get_contact_phone(); if(strlen($contact_phone)>0) : ?>
-                    <p class="phone">Phone: <?php echo $contact_phone; ?></p>
-                    <?php endif;?>
-                    <?php $contact_email = get_contact_email(); if(strlen($contact_email)>0) : ?>
-						<p class="email"><a href="/contact-us"><?php echo $contact_email; ?></a></p>
-                                    <p class="appointment"><a href="https://www.schedulicity.com/scheduling/SLGNCU" title="Online scheduling" target="_blank"><img src="http://www.greaterhoustondefense.com/wp-content/uploads/2015/01/button-schedule-appointment1.png" alt="Schedule online now" border="0" width="200" vspace="5" /></a></p>
-                    <?php endif;?>
-			  <p style="margin-top: -40px;text-align:right">24-hr. Voice/Text: (713) 581-4540<br>Espa&ntilde;ol: (713) 226-9393</p>
+                <div class="contact-info clearfix">
+                    <div class="my-contact first">
+                        <?php $contact_email = get_contact_email(); if(strlen($contact_email)>0) : ?>
+                        <p class="email"><a href="/contact-us"><?php echo $contact_email; ?></a></p>
+                        <?php endif;?>
+                        <p class="appointment"><a href="https://www.schedulicity.com/scheduling/SLGNCU" title="Online scheduling" target="_blank"><img src="http://www.greaterhoustondefense.com/wp-content/uploads/2015/01/button-schedule-appointment1.png" alt="Schedule online now" border="0" width="200" vspace="5" /></a></p>
+                    </div>
+                    <div class="my-contact last">
+                        <?php $contact_phone = get_contact_phone(); if(strlen($contact_phone)>0) : ?>
+                        <p class="phone">Phone: <?php echo $contact_phone; ?></p>
+                        <?php endif;?>
+                        <p>24-hr. Voice/Text: (713) 581-4540<br>Espa&ntilde;ol: (713) 226-9393</p>
+                    </div>
                 </div>
                 <!-- end contact info -->
                 <?php endif;?>
-
             </div>
             <!-- end header right -->
         </section>
