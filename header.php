@@ -65,9 +65,11 @@
                     </div>
                     <div class="my-contact last">
                         <?php $contact_phone = get_contact_phone(); if(strlen($contact_phone)>0) : ?>
-                        <p class="phone">Phone: <?php echo $contact_phone; ?></p>
+                        <p class="phone hide-xs">Phone: <a href="tel:7138079700"><?php echo $contact_phone; ?></a></p>
+                        <p class="phone-xs show-xs"><a href="tel:7138079700">Call <?php echo $contact_phone; ?></a></p>
                         <?php endif;?>
-                        <p>24-hr. Voice/Text: (713) 581-4540<br>Espa&ntilde;ol: (713) 226-9393</p>
+                        <p>24-hr. Voice/Text: <a href="tel:7135814540">(713) 581-4540</a></p>
+                        <p>Espa&ntilde;ol: <a href="tel:7132269393">(713) 226-9393</a></p>
                     </div>
                 </div>
                 <!-- end contact info -->
