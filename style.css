@@ -320,16 +320,17 @@ mark {
 #header .contact-info .my-contact.last .phone-xs a {
   background: #000 none repeat scroll 0 0;
   border-radius: 6px;
-  color: yellow;
+  color: yellow !important;
   font-family: "Lato", sans-serif;
-  font-size: 15px !important;
+  font-size: 25px !important;
   font-weight: 300;
   padding: 10px;
   text-transform: uppercase;
+  font-weight: 600;
 }
 
 #header .contact-info .my-contact.last .phone-xs a:hover {
-  color: white;
+  color: white !important;
 }
 
 #header .contact-info {
@@ -337,8 +338,8 @@ mark {
   margin-top: 0px;
 }
 
-#header .contact-info .my-contact {
-  float: left;
+#header .contact-info .my-contact p {
+  text-align: right;
 }
 
 #header .contact-info .my-contact.last p a {
@@ -354,6 +355,14 @@ mark {
   background-position: left center;
   margin: 0;
   padding: 0;
+  color: #999999;
+  font-size: 16px;
+  line-height: 21px;
+  font-weight: 600;
+}
+
+#header .contact-info p a {
+  color: #999999 !important;
 }
 
 #header .contact-info .email {
@@ -362,6 +371,28 @@ mark {
   padding-left: 21px;
   font-size: 16px;
   font-weight: bolder;
+}
+
+#footer-top .my-contact .email {
+  background-image: url(images/contact/mail.png);
+  background-position: left top;
+  background-repeat: no-repeat;
+  padding-left: 21px;
+  font-size: 16px;
+  font-weight: bolder;
+  border-bottom: 1px solid #4c4c4c;
+  padding-bottom: 36px;
+  margin: 0;
+}
+
+#footer-top .my-contact .appointment {
+  border-bottom: 1px solid #4c4c4c;
+  padding: 36px 0;
+  margin: 0;
+}
+
+#footer-top .my-contact .email a {
+  color: white;
 }
 
 #header .contact-info .appointment {
@@ -376,8 +407,13 @@ mark {
 }
 
 #header .contact-info .phone {
-  font-size: 16px;
+  font-size: 24px;
   font-weight: bolder;
+  color: #555555;
+}
+
+#header .contact-info .phone a {
+  color: #555555 !important;
 }
 
 /* ---------------------------------------------------------------------- */

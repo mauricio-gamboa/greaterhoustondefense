@@ -57,19 +57,13 @@
                 <?php if(is_contact_details_displayed_in_header_enabled()) : ?>
                 <!-- begin contact info -->
                 <div class="contact-info clearfix">
-                    <div class="my-contact first">
-                        <?php $contact_email = get_contact_email(); if(strlen($contact_email)>0) : ?>
-                        <p class="email"><a href="/contact-us"><?php echo $contact_email; ?></a></p>
-                        <?php endif;?>
-                        <p class="appointment"><a href="https://www.schedulicity.com/scheduling/SLGNCU" title="Online scheduling" target="_blank"><img src="http://www.greaterhoustondefense.com/wp-content/uploads/2015/01/button-schedule-appointment1.png" alt="Schedule online now" border="0" width="200" vspace="5" /></a></p>
-                    </div>
                     <div class="my-contact last">
                         <?php $contact_phone = get_contact_phone(); if(strlen($contact_phone)>0) : ?>
-                        <p class="phone hide-xs">Phone: <a href="tel:7138079700"><?php echo $contact_phone; ?></a></p>
+                        <p class="phone hide-xs"><a href="tel:7138079700">Call <?php echo $contact_phone; ?></a></p>
                         <p class="phone-xs show-xs"><a href="tel:7138079700">Call <?php echo $contact_phone; ?></a></p>
                         <?php endif;?>
-                        <p>24-hr. Voice/Text: <a href="tel:7135814540">(713) 581-4540</a></p>
-                        <p>Espa&ntilde;ol: <a href="tel:7132269393">(713) 226-9393</a></p>
+                        <p><a href="tel:7135814540">After Hours Call or Text (713) 581-4540</a></p>
+                        <p><a href="tel:7132269393">Se habla Espa&ntilde;ol: (713) 226-9393</a></p>
                     </div>
                 </div>
                 <!-- end contact info -->

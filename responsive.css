@@ -92,13 +92,8 @@
     float: none;
   }
 
-  .my-contact.widget .appointment {
-    margin-top: 10px !important;
-  }
-
-  #header .contact-info .my-contact {
-    float: none;
-    margin: 0 !important;
+  #header .contact-info .my-contact p {
+    text-align: center;
   }
 
   #header .contact-info .my-contact.first {
