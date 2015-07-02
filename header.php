@@ -57,6 +57,12 @@
                 <?php if(is_contact_details_displayed_in_header_enabled()) : ?>
                 <!-- begin contact info -->
                 <div class="contact-info clearfix">
+                		<div class="my-contact first">
+                		<?php $contact_email = get_contact_email(); if(strlen($contact_email)>0) : ?>
+                                                                                <p class="email"><a href="/contact-us"><?php echo $contact_email; ?></a></p>
+                                                                                <?php endif;?>
+                                                                                <p class="appointment"><a href="https://www.schedulicity.com/scheduling/SLGNCU" title="Online scheduling" target="_blank"><img src="http://www.greaterhoustondefense.com/wp-content/uploads/2015/01/button-schedule-appointment1.png" alt="Schedule online now" border="0" width="200" vspace="5" /></a></p>
+                		</div>
                     <div class="my-contact last">
                         <?php $contact_phone = get_contact_phone(); if(strlen($contact_phone)>0) : ?>
                         <p class="phone hide-xs"><a href="tel:7138079700">Call <?php echo $contact_phone; ?></a></p>

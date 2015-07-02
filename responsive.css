@@ -18,6 +18,14 @@
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 
+  #header .contact-info .phone {
+    font-size: 21px;
+  }
+
+  #header .contact-info p {
+    font-size: 12px;
+  }
+
   /* Container */
   .container {
     width: 748px;
@@ -83,7 +91,9 @@
     height: auto;
   }
 
-  #header-top .header-section {
+  #header-top .header-section.first,
+  #header-top .header-section.last,
+  #header .contact-info .my-contact {
     text-align: center;
     float: none !important;
   }

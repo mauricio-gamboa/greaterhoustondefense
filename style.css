@@ -116,7 +116,6 @@ ul {
 /* ---------------------------------------------------------------------- */
 #wrap {
   border-top: 5px solid #383838;
-  padding-top: 30px;
   overflow: hidden;
 }
 
@@ -272,7 +271,7 @@ mark {
 /* Header
 /* ---------------------------------------------------------------------- */
 #header-top {
-  margin-bottom: 15px;
+  margin: 15px 0;
 }
 
 #header-top .header-section.first {
@@ -313,6 +312,18 @@ mark {
   display: none;
 }
 
+#header .contact-info .my-contact {
+  float: left;
+}
+
+#header .contact-info .my-contact .email a {
+  color: #e53c3c !important;
+}
+
+#header .contact-info .my-contact .email a:hover {
+  color: black !important;
+}
+
 #header .contact-info .my-contact.last .phone-xs {
   margin: 15px 0;
 }
@@ -323,7 +334,6 @@ mark {
   color: yellow !important;
   font-family: "Lato", sans-serif;
   font-size: 25px !important;
-  font-weight: 300;
   padding: 10px;
   text-transform: uppercase;
   font-weight: 600;
@@ -636,7 +646,6 @@ input[type="submit"] {
 /* Newsletter Form */
 
 #newsletter-wrap {
-  padding-top: 25px;
   border-top: 1px solid #e5e5e5;
 }
 
